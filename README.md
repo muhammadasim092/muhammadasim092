@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Developer Banner" width="100%">
-</p>
 # Hi, I'm Muhammad Asim 👋
 ### AI/ML & Software Developer | MS Computer Science Candidate
 
