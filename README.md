@@ -1,3 +1,4 @@
+![Muhammad Asim](profile.jpg)
 # Hi, I'm Muhammad Asim 👋
 ### AI/ML & Software Developer | MS Computer Science Candidate
 
