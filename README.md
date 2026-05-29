@@ -2,11 +2,9 @@
   <img src="banner.png" alt="Muhammad Asim Banner" width="100%">
 </p>
 # Hi, I'm Muhammad Asim 👋
-### AI/ML & Software Developer | MS Computer Science Candidate
+AI/ML & Software Developer | MS Computer Science Candidate
 
 I build autonomous intelligent systems, high-precision computer vision pipelines, and production-ready MLOps infrastructure. This repository serves as a public archive of my frameworks, enterprise experiments, and core codebases. 
-
----
 
 ## 🤖 AI Multi-Agent & Orchestration Systems
 Architecting distributed, scalable AI agent networks with advanced routing and evaluation layers.
